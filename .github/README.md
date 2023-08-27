@@ -3,12 +3,12 @@
 **zadkiel**
 
 <h2 align="center">
-    ──「 Drimi Robot 」──
+    ──「 QUEEN  MUSIC 」──
 </h2>
 
-##  ᴄᴀᴛᴄʜ ᴍᴇ ɪɴ [ᴛɢ🏃‍♀️](https://t.me/zadkiel_z) 
+##  ᴄᴀᴛᴄʜ ᴍᴇ ɪɴ [ᴛɢ🏃‍♀️](https://t.me/FAST_CRECKER) 
 
-_**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [Drimi ✘ ʀᴏʙᴏᴛ](https://t.me/drimi_robot)**_
+_**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [Drimi ✘ ʀᴏʙᴏᴛ](https://t.me/HOT_QUEEN_MBOT)**_
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -70,10 +70,10 @@ _**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [Drimi ✘ ʀᴏʙ�
 - `sudo apt install python3-pip`
 
 - ᴄʟᴏɴᴇ ᴛʜᴇ ʀᴇᴘᴏsɪᴛᴏʀʏ ʙʏ :
-- `git clone https://github.com/Moca96/DrimiRobot`
+- `git clone https://t.me/FAST_CRECKER`
 
 - ᴇɴᴛᴇʀ ɪɴ ʀᴇᴘᴏ
-- `cd DrimiRobot`
+- `cd https://t.me/FAST_CRECKER`
 
 - ɪɴsᴛᴀʟʟ ʀᴇǫᴜɪʀᴇᴍᴇɴᴛs ʙʏ :
 - `pip3 install -U -r requirements.txt`
@@ -134,7 +134,7 @@ OWNER_ID =  sᴛᴀʀᴛ @Exon_Robot & ᴛʏᴘᴇ /id
 </h3>
  : ➻
 
-➥ [Zadkiel] × <a href="https://github.com/Abishnoi69" alt="zadkiel_z"> <img src="https://img.shields.io/badge/ZADKIEL-90302f?logo=github" /></a>  
+➥ [CRECKER] × <a href="https://github.com/Abishnoi69" alt="FAST_CRECKET"> <img src="https://img.shields.io/badge/ZADKIEL-90302f?logo=github" /></a>  
 
 ━━━━━━━━━━━━━━━━━━━━
 
